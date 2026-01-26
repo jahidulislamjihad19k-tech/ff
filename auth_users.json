@@ -1,0 +1,67 @@
+{
+  "1": {
+    "password": "6b86b273ff34fce19d6b804eff5a3f5747ada4eaa22f1d49c01e52ddb7875b4b",
+    "device_id": null,
+    "created_at": "2025-12-07T09:32:49.206585",
+    "last_login": null,
+    "login_count": 0
+  },
+  "jihad": {
+    "password": "6b86b273ff34fce19d6b804eff5a3f5747ada4eaa22f1d49c01e52ddb7875b4b",
+    "device_id": "22a101ac-19af-9aeb-50aa-224022a1",
+    "created_at": "2025-12-07T09:33:00.602514",
+    "last_login": "2025-12-07T17:18:56.490831",
+    "login_count": 1
+  },
+  "jihad1": {
+    "password": "08243666f926aa4e5b884b8ef1fc3b93d19e191a793581530616bd2e032c4761",
+    "device_id": null,
+    "created_at": "2025-12-07T09:33:28.302473",
+    "last_login": null,
+    "login_count": 0
+  },
+  "12": {
+    "password": "6b51d431df5d7f141cbececcf79edf3dd861c3b4069f0b11661a3eefacbba918",
+    "device_id": "61e55bac-19af-829e-4843-d07661e5",
+    "created_at": "2025-12-07T09:34:14.661301",
+    "last_login": "2025-12-07T09:42:37.142273",
+    "login_count": 2
+  },
+  "rafi": {
+    "password": "8d969eef6ecad3c29a3a629280e686cf0c3f5d5a86aff3ca12020c923adc6c92",
+    "device_id": "6b3855bd-19b2-6b95-33d2-05126b38",
+    "created_at": "2025-12-16T10:41:42.477316",
+    "last_login": "2025-12-16T10:42:30.948491",
+    "login_count": 2,
+    "license_key": "DELTA-P8ST-DQUD-8SDB-P8AP",
+    "register_ip": "14.1.182.30",
+    "login_history": [
+      {
+        "timestamp": "2025-12-16T10:41:54.973804",
+        "ip_address": "14.1.182.30",
+        "device_id": "6b3855bd-19b2-6b95-3..."
+      },
+      {
+        "timestamp": "2025-12-16T10:42:30.948498",
+        "ip_address": "14.1.182.30",
+        "device_id": "6b3855bd-19b2-6b95-3..."
+      }
+    ]
+  },
+  "pc1": {
+    "password": "8d969eef6ecad3c29a3a629280e686cf0c3f5d5a86aff3ca12020c923adc6c92",
+    "device_id": "6b3855bd-19b2-6c1c-504d-c1f56b38",
+    "created_at": "2025-12-16T10:43:01.337406",
+    "last_login": "2025-12-16T10:44:08.900353",
+    "login_count": 1,
+    "license_key": "DELTA-P8ST-DQUD-8SDB-P8AP",
+    "register_ip": "14.1.182.30",
+    "login_history": [
+      {
+        "timestamp": "2025-12-16T10:44:08.900365",
+        "ip_address": "14.1.182.30",
+        "device_id": "6b3855bd-19b2-6c1c-5..."
+      }
+    ]
+  }
+}
