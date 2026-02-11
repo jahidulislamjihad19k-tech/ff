@@ -320,7 +320,7 @@ def newinfo(uid):
 def send_likes(uid):
     try:
         likes_api_response = requests.get(
-            f"https://freefirebd.up.railway.app/like?uid={uid}&server_name={bd}&x-vercel-set-bypass-cookie=true&x-vercel-protection-bypass={BYPASS_TOKEN}",
+            f"https://freefirebd.up.railway.app/like?uid={uid}&server_name=bd&x-vercel-set-bypass-cookie=true&x-vercel-protection-bypass={BYPASS_TOKEN}",
             timeout=15)
 
         if likes_api_response.status_code != 200:
