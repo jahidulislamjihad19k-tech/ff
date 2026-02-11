@@ -75,8 +75,7 @@ FREEZE_EMOTES = [909052010, 909052010, 909052010]  # Ice emotes
 FREEZE_DURATION = 10  # seconds
 
 # Bio change configuration
-BIO_ENCRYPTION_KEY = bytes([89, 103, 38, 116, 99, 37, 68, 69, 117, 104, 54, 37, 90, 99, 94, 56])
-BIO_ENCRYPTION_IV = bytes([54, 111, 121, 90, 68, 114, 50, 50, 69, 51, 121, 99, 104, 106, 77, 37])
+BIO_ENCRYPTION_KEY = bytes([89, 103, 38, 116, 99, 37, 68, 69, 117, 104, 54, 37, 90, 99, 94, YTRIOCRYPTION_IV = bytes([54, 111, 121, 90, 68, 114, 50, 50, 69, 51, 121, 99, 104, 106, 77, 37])
 FREEFIRE_VERSION = "OB52"
 
 # =================== WHITELIST SYSTEM (NEW FROM BBUND) ===================
@@ -353,7 +352,7 @@ Please check if the uid is correct.
 [FFFFFF]Likes Before : [00FF00]{likes_before}  
 [FFFFFF]Likes After : [00FF00]{likes_after}  
 [C][B][11EAFD]‎━━━━━━━━━━━━
-[C][B][FFB300]Subscribe: [FFFFFF]SPIDEERIO YT [00FF00]!!
+[C][B][FFB300]Subscribe: [FFFFFF]Delta Bhai Live [O0FF00]!!
 """
         elif status == 2 or likes_before == likes_after:
             # 🚫 Already claimed / Maxed
